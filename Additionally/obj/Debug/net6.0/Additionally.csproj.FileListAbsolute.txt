@@ -1,0 +1,15 @@
+C:\Users\Юзер\Documents\Programms\Обучение\Домашняя работа\HomeWork_Seminar5\Additionally\obj\Debug\net6.0\Additionally.csproj.AssemblyReference.cache
+C:\Users\Юзер\Documents\Programms\Обучение\Домашняя работа\HomeWork_Seminar5\Additionally\obj\Debug\net6.0\Additionally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юзер\Documents\Programms\Обучение\Домашняя работа\HomeWork_Seminar5\Additionally\obj\Debug\net6.0\Additionally.AssemblyInfoInputs.cache
+C:\Users\Юзер\Documents\Programms\Обучение\Домашняя работа\HomeWork_Seminar5\Additionally\obj\Debug\net6.0\Additionally.AssemblyInfo.cs
+C:\Users\Юзер\Documents\Programms\Обучение\Домашняя работа\HomeWork_Seminar5\Additionally\obj\Debug\net6.0\Additionally.csproj.CoreCompileInputs.cache
+C:\Users\Юзер\Documents\Programms\Обучение\Домашняя работа\HomeWork_Seminar5\Additionally\bin\Debug\net6.0\Additionally.exe
+C:\Users\Юзер\Documents\Programms\Обучение\Домашняя работа\HomeWork_Seminar5\Additionally\bin\Debug\net6.0\Additionally.deps.json
+C:\Users\Юзер\Documents\Programms\Обучение\Домашняя работа\HomeWork_Seminar5\Additionally\bin\Debug\net6.0\Additionally.runtimeconfig.json
+C:\Users\Юзер\Documents\Programms\Обучение\Домашняя работа\HomeWork_Seminar5\Additionally\bin\Debug\net6.0\Additionally.dll
+C:\Users\Юзер\Documents\Programms\Обучение\Домашняя работа\HomeWork_Seminar5\Additionally\bin\Debug\net6.0\Additionally.pdb
+C:\Users\Юзер\Documents\Programms\Обучение\Домашняя работа\HomeWork_Seminar5\Additionally\obj\Debug\net6.0\Additionally.dll
+C:\Users\Юзер\Documents\Programms\Обучение\Домашняя работа\HomeWork_Seminar5\Additionally\obj\Debug\net6.0\refint\Additionally.dll
+C:\Users\Юзер\Documents\Programms\Обучение\Домашняя работа\HomeWork_Seminar5\Additionally\obj\Debug\net6.0\Additionally.pdb
+C:\Users\Юзер\Documents\Programms\Обучение\Домашняя работа\HomeWork_Seminar5\Additionally\obj\Debug\net6.0\Additionally.genruntimeconfig.cache
+C:\Users\Юзер\Documents\Programms\Обучение\Домашняя работа\HomeWork_Seminar5\Additionally\obj\Debug\net6.0\ref\Additionally.dll
