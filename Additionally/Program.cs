@@ -10,18 +10,31 @@ PrintArray(massive);
 Console.Write("Искомое число: ");
 int num = int.Parse(Console.ReadLine());
 
-Console.WriteLine("Индекс заданного числа в массиве: " + GetIndexNumber(massive, num));
+Console.Write("Индекс заданного числа в массиве: " );
+PrintArray(GetIndexNumber(massive, num));
 
-int GetIndexNumber(int[] array, int num)
+int[] GetIndexNumber(int[] array, int num)
 {
+    int j = 0;
+    int[] count = {-1};
     for (int i = 0; i < array.Length; i++)
     {
         if (array[i] == num)
         {
-            return i;
+            if (j == 0)
+            {
+                count[j] = i;
+                j ++;
+            }
+            else if (j != 0)
+            {
+                Array.Resize(ref count, j + 1);
+                count[j] = i;
+                j ++;
+            }
         }
     }
-    return -1;
+    return count;
 }
 
 
