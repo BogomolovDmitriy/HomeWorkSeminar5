@@ -1,0 +1,15 @@
+C:\Users\Юзер\Documents\Programms\Обучение\Домашняя работа\HomeWork_Seminar5\Exercise36\obj\Debug\net6.0\Exercise36.csproj.AssemblyReference.cache
+C:\Users\Юзер\Documents\Programms\Обучение\Домашняя работа\HomeWork_Seminar5\Exercise36\obj\Debug\net6.0\Exercise36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юзер\Documents\Programms\Обучение\Домашняя работа\HomeWork_Seminar5\Exercise36\obj\Debug\net6.0\Exercise36.AssemblyInfoInputs.cache
+C:\Users\Юзер\Documents\Programms\Обучение\Домашняя работа\HomeWork_Seminar5\Exercise36\obj\Debug\net6.0\Exercise36.AssemblyInfo.cs
+C:\Users\Юзер\Documents\Programms\Обучение\Домашняя работа\HomeWork_Seminar5\Exercise36\obj\Debug\net6.0\Exercise36.csproj.CoreCompileInputs.cache
+C:\Users\Юзер\Documents\Programms\Обучение\Домашняя работа\HomeWork_Seminar5\Exercise36\bin\Debug\net6.0\Exercise36.exe
+C:\Users\Юзер\Documents\Programms\Обучение\Домашняя работа\HomeWork_Seminar5\Exercise36\bin\Debug\net6.0\Exercise36.deps.json
+C:\Users\Юзер\Documents\Programms\Обучение\Домашняя работа\HomeWork_Seminar5\Exercise36\bin\Debug\net6.0\Exercise36.runtimeconfig.json
+C:\Users\Юзер\Documents\Programms\Обучение\Домашняя работа\HomeWork_Seminar5\Exercise36\bin\Debug\net6.0\Exercise36.dll
+C:\Users\Юзер\Documents\Programms\Обучение\Домашняя работа\HomeWork_Seminar5\Exercise36\bin\Debug\net6.0\Exercise36.pdb
+C:\Users\Юзер\Documents\Programms\Обучение\Домашняя работа\HomeWork_Seminar5\Exercise36\obj\Debug\net6.0\Exercise36.dll
+C:\Users\Юзер\Documents\Programms\Обучение\Домашняя работа\HomeWork_Seminar5\Exercise36\obj\Debug\net6.0\refint\Exercise36.dll
+C:\Users\Юзер\Documents\Programms\Обучение\Домашняя работа\HomeWork_Seminar5\Exercise36\obj\Debug\net6.0\Exercise36.pdb
+C:\Users\Юзер\Documents\Programms\Обучение\Домашняя работа\HomeWork_Seminar5\Exercise36\obj\Debug\net6.0\Exercise36.genruntimeconfig.cache
+C:\Users\Юзер\Documents\Programms\Обучение\Домашняя работа\HomeWork_Seminar5\Exercise36\obj\Debug\net6.0\ref\Exercise36.dll
